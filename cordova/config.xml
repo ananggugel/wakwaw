@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget 
+    id="tabris.pushbot" 
+    xmlns:gap="http://phonegap.com/ns/1.0"
+    xmlns="http://www.w3.org/ns/widgets"
+    xmlns:cdv="http://cordova.apache.org/ns/1.0"
+    version="1.0.0">
+    <name>rich-of-lamongan-tabris</name>
+    <description>
+        Rich of lamongan tabris
+    </description>
+    <author email="radiegtya@gmail.com" href="https://tabrisjs.com">
+        Radiegtya
+    </author>
+    
+    <gap:plugin name="org.apache.cordova.geolocation"/>
+    <gap:plugin name="nl.x-services.plugins.toast" />
+</widget>
