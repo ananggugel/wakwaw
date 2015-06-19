@@ -12,5 +12,5 @@
     <author email="radiegtya@gmail.com" href="https://tabrisjs.com">
         Radiegtya
     </author>
-    <gap:plugin name="org.apache.cordova.core.geolocation" />
+    <gap:plugin name="org.apache.cordova.geolocation" />
 </widget>
