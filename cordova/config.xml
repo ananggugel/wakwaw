@@ -13,4 +13,5 @@
         Radiegtya
     </author>
     <gap:plugin name="org.apache.cordova.geolocation" />
+    <gap:plugin name="nl.x-services.plugins.toast" />
 </widget>
